@@ -68,7 +68,7 @@ CREATE TABLE IF NOT EXISTS personas (
 
 personas = [
     ("wendy", "Wendy Nicole Llivichuzhca", 20, "wendy@gmail.com", "0999999999", "https://i.vgy.me/R3EGsB.jpg"),
-    ("adriana", "Adriana Pérez", 20, "adriana@gmail.com", "0998887777", "https://i.vgy.me/nsc6vR.jpg")
+    ("adriana", "Adriana Valentina Cornejo Ulloa", 20, "adriana@gmail.com", "0998887777", "https://i.vgy.me/nsc6vR.jpg")
 ]
 
 for p in personas:
